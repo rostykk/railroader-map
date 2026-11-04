@@ -7,6 +7,10 @@ Fan-made track schematic of Railroader 0.6.2 (experimental, Maintenance of Way u
 
 Open `index.html` (GitHub Pages serves it at the site root). Dark mode: button in the viewers, or `?theme=dark`.
 
+## Credits
+
+The idea and the drawing style come from **Dewclaw**’s Railroader station schematic (Railroader Map v3.0). Thank you! Tracks here are redrawn from the 0.6.2 game data (Map.json), not copied from that map.
+
 ## License
 
 The map is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it with attribution, not for commercial purposes. See `LICENSE`.
