@@ -1,6 +1,6 @@
 # Railroader track schematic (0.6.2)
 
-Fan-made track schematic of Railroader 0.6.2 (experimental, Maintenance of Way update), generated from the game data. Signals (CTC) and grade crossings are not shown yet.
+Fan-made track schematic of Railroader 0.6.2 (experimental, Maintenance of Way update), generated from the game data. CTC signal positions were read from the running game with QbanRambo’s Map Plus mod (MIT).
 
 - English: `en/roll.html`, `en/pages.html`, PDF
 - Українською: `uk/roll.html`, `uk/pages.html`, PDF
